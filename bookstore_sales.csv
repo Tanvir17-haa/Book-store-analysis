@@ -1,0 +1,1001 @@
+BookTitle,Genre,Sales,OrderDate,PaymentMethod,Location
+Sapiens,Classics,5.16,2024-01-01,Credit Card,Los Angeles
+Sapiens,Fantasy,99.75,2024-01-01,Digital Wallet,Chicago
+To Kill a Mockingbird,Biography,15.89,2024-01-01,Credit Card,New York
+Harry Potter,Biography,46.48,2024-01-01,Cash,New York
+Sapiens,Fiction,82.63,2024-01-01,Digital Wallet,Chicago
+Harry Potter,History,94.55,2024-01-01,Credit Card,New York
+1984,History,84.11,2024-01-01,Credit Card,New York
+The Great Gatsby,Fantasy,44.31,2024-01-01,Digital Wallet,Los Angeles
+Atomic Habits,Fiction,97.5,2024-01-01,Credit Card,Houston
+The Alchemist,Self-Help,16.93,2024-01-01,Cash,New York
+The Great Gatsby,Biography,91.16,2024-01-01,Cash,Chicago
+Sapiens,Self-Help,29.83,2024-01-01,Digital Wallet,Los Angeles
+Rich Dad Poor Dad,Self-Help,71.52,2024-01-01,Credit Card,Phoenix
+To Kill a Mockingbird,Classics,23.5,2024-01-01,Digital Wallet,New York
+Rich Dad Poor Dad,Classics,30.08,2024-01-01,Cash,Chicago
+To Kill a Mockingbird,Fiction,11.39,2024-01-01,Cash,Phoenix
+The Great Gatsby,History,99.17,2024-01-01,Digital Wallet,Phoenix
+Becoming,Fantasy,77.84,2024-01-01,Cash,Chicago
+1984,Biography,7.38,2024-01-01,Digital Wallet,Chicago
+Rich Dad Poor Dad,History,91.83,2024-01-01,Credit Card,New York
+1984,History,95.81,2024-01-01,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,7.56,2024-01-01,Credit Card,Los Angeles
+The Alchemist,Self-Help,16.74,2024-01-01,Digital Wallet,Phoenix
+Sapiens,Biography,62.55,2024-01-01,Digital Wallet,Houston
+The Great Gatsby,History,34.99,2024-01-02,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Self-Help,55.96,2024-01-02,Cash,Chicago
+To Kill a Mockingbird,Self-Help,30.23,2024-01-02,Digital Wallet,New York
+Harry Potter,Biography,69.19,2024-01-02,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Biography,15.1,2024-01-02,Digital Wallet,Phoenix
+Harry Potter,Classics,26.82,2024-01-02,Cash,Los Angeles
+Rich Dad Poor Dad,Fiction,91.68,2024-01-02,Digital Wallet,Chicago
+Becoming,Classics,98.66,2024-01-02,Digital Wallet,Phoenix
+The Subtle Art of Not Giving a F*ck,Fantasy,96.1,2024-01-02,Cash,Chicago
+Atomic Habits,Classics,11.99,2024-01-02,Digital Wallet,Los Angeles
+The Alchemist,Fantasy,7.06,2024-01-02,Credit Card,Houston
+1984,Self-Help,75.14,2024-01-02,Digital Wallet,Chicago
+Sapiens,Self-Help,88.87,2024-01-02,Credit Card,Phoenix
+Sapiens,Biography,50.54,2024-01-02,Credit Card,Chicago
+To Kill a Mockingbird,Self-Help,65.76,2024-01-02,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Classics,88.2,2024-01-02,Credit Card,Chicago
+Rich Dad Poor Dad,Self-Help,18.95,2024-01-02,Cash,Houston
+Harry Potter,Classics,11.44,2024-01-02,Digital Wallet,Los Angeles
+The Great Gatsby,History,87.21,2024-01-02,Digital Wallet,Houston
+Atomic Habits,Classics,85.56,2024-01-02,Cash,Houston
+The Subtle Art of Not Giving a F*ck,Fiction,16.21,2024-01-02,Cash,Los Angeles
+To Kill a Mockingbird,Fiction,63.57,2024-01-02,Cash,Los Angeles
+Sapiens,Self-Help,70.93,2024-01-02,Cash,Los Angeles
+Sapiens,Classics,93.84,2024-01-02,Credit Card,Los Angeles
+Harry Potter,Self-Help,67.59,2024-01-03,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,History,98.74,2024-01-03,Credit Card,Phoenix
+Sapiens,Fantasy,69.1,2024-01-03,Cash,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,62.95,2024-01-03,Digital Wallet,Houston
+The Great Gatsby,Self-Help,7.48,2024-01-03,Credit Card,Phoenix
+Harry Potter,Self-Help,57.66,2024-01-03,Credit Card,New York
+1984,Biography,83.14,2024-01-03,Cash,Houston
+The Alchemist,Biography,61.63,2024-01-03,Cash,Chicago
+Becoming,Biography,45.99,2024-01-03,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,74.94,2024-01-03,Cash,Chicago
+1984,Fiction,64.91,2024-01-03,Digital Wallet,Chicago
+Atomic Habits,Fantasy,38.22,2024-01-03,Cash,Houston
+To Kill a Mockingbird,Fiction,56.73,2024-01-03,Digital Wallet,New York
+The Great Gatsby,Classics,52.57,2024-01-03,Credit Card,Los Angeles
+To Kill a Mockingbird,Fiction,64.75,2024-01-03,Cash,Los Angeles
+The Subtle Art of Not Giving a F*ck,Biography,16.85,2024-01-03,Cash,Chicago
+Rich Dad Poor Dad,Fiction,56.97,2024-01-03,Digital Wallet,New York
+The Alchemist,History,38.49,2024-01-03,Cash,Los Angeles
+The Alchemist,Classics,70.65,2024-01-03,Credit Card,Los Angeles
+1984,Fiction,75.99,2024-01-03,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Biography,91.25,2024-01-03,Credit Card,Los Angeles
+Harry Potter,Self-Help,89.5,2024-01-03,Digital Wallet,New York
+To Kill a Mockingbird,Self-Help,45.46,2024-01-03,Cash,Phoenix
+Rich Dad Poor Dad,Self-Help,22.2,2024-01-03,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Fiction,57.24,2024-01-04,Digital Wallet,Chicago
+Rich Dad Poor Dad,History,44.83,2024-01-04,Digital Wallet,Houston
+Becoming,Biography,81.32,2024-01-04,Cash,Chicago
+Atomic Habits,Fiction,44.14,2024-01-04,Credit Card,Los Angeles
+The Great Gatsby,Fiction,50.56,2024-01-04,Digital Wallet,Phoenix
+Harry Potter,Self-Help,81.23,2024-01-04,Digital Wallet,Los Angeles
+Harry Potter,Self-Help,60.65,2024-01-04,Digital Wallet,Chicago
+Atomic Habits,Fiction,48.95,2024-01-04,Credit Card,Chicago
+The Alchemist,History,44.99,2024-01-04,Digital Wallet,New York
+The Alchemist,Classics,99.89,2024-01-04,Cash,Los Angeles
+To Kill a Mockingbird,History,88.03,2024-01-04,Credit Card,Chicago
+To Kill a Mockingbird,History,57.93,2024-01-04,Credit Card,Los Angeles
+The Great Gatsby,Classics,75.88,2024-01-04,Cash,New York
+The Subtle Art of Not Giving a F*ck,Self-Help,84.47,2024-01-04,Cash,New York
+Sapiens,Biography,90.56,2024-01-04,Digital Wallet,New York
+Atomic Habits,Biography,56.45,2024-01-04,Digital Wallet,Chicago
+Atomic Habits,Fantasy,45.62,2024-01-04,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,History,8.02,2024-01-04,Cash,Los Angeles
+1984,History,36.16,2024-01-04,Cash,Phoenix
+The Alchemist,Biography,61.12,2024-01-04,Credit Card,Phoenix
+Becoming,Biography,18.07,2024-01-04,Digital Wallet,Houston
+Harry Potter,Biography,68.18,2024-01-04,Credit Card,Chicago
+Sapiens,Fantasy,72.67,2024-01-04,Digital Wallet,New York
+Harry Potter,Classics,73.08,2024-01-04,Digital Wallet,New York
+1984,Biography,68.76,2024-01-05,Digital Wallet,Los Angeles
+Harry Potter,Classics,15.81,2024-01-05,Digital Wallet,Phoenix
+The Alchemist,Classics,56.51,2024-01-05,Credit Card,Phoenix
+Harry Potter,History,23.32,2024-01-05,Credit Card,Houston
+Rich Dad Poor Dad,Fiction,75.21,2024-01-05,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Fiction,29.07,2024-01-05,Digital Wallet,New York
+Rich Dad Poor Dad,Fantasy,97.88,2024-01-05,Cash,Phoenix
+Rich Dad Poor Dad,Classics,33.63,2024-01-05,Credit Card,Los Angeles
+Harry Potter,Fantasy,27.99,2024-01-05,Credit Card,Chicago
+Harry Potter,Classics,67.76,2024-01-05,Cash,Los Angeles
+Harry Potter,History,86.78,2024-01-05,Cash,New York
+Becoming,History,19.73,2024-01-05,Cash,Los Angeles
+Becoming,Fantasy,28.34,2024-01-05,Cash,New York
+Becoming,Fiction,21.21,2024-01-05,Credit Card,Los Angeles
+The Alchemist,Self-Help,95.37,2024-01-05,Digital Wallet,Houston
+1984,Biography,77.65,2024-01-05,Digital Wallet,Houston
+1984,Fiction,5.03,2024-01-05,Digital Wallet,Houston
+Becoming,Fantasy,59.45,2024-01-05,Digital Wallet,Chicago
+The Great Gatsby,Fantasy,82.7,2024-01-05,Credit Card,Los Angeles
+The Great Gatsby,History,56.58,2024-01-05,Digital Wallet,Phoenix
+1984,Classics,92.98,2024-01-05,Cash,Phoenix
+The Alchemist,Classics,28.49,2024-01-05,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,73.07,2024-01-05,Cash,Chicago
+Sapiens,Biography,18.42,2024-01-05,Credit Card,New York
+1984,Fiction,26.16,2024-01-06,Cash,Phoenix
+The Great Gatsby,Classics,37.9,2024-01-06,Digital Wallet,New York
+1984,History,33.87,2024-01-06,Cash,Phoenix
+Sapiens,Self-Help,16.76,2024-01-06,Digital Wallet,Chicago
+Harry Potter,Biography,28.47,2024-01-06,Cash,Phoenix
+Harry Potter,Biography,70.25,2024-01-06,Digital Wallet,Houston
+Atomic Habits,Fantasy,43.7,2024-01-06,Credit Card,Chicago
+1984,Fiction,86.97,2024-01-06,Credit Card,New York
+Becoming,Self-Help,57.35,2024-01-06,Credit Card,New York
+Harry Potter,Fantasy,37.95,2024-01-06,Cash,Los Angeles
+The Great Gatsby,Fantasy,46.09,2024-01-06,Credit Card,Houston
+1984,Biography,85.62,2024-01-06,Digital Wallet,Chicago
+Harry Potter,History,38.48,2024-01-06,Cash,Houston
+Rich Dad Poor Dad,Fiction,64.34,2024-01-06,Digital Wallet,Phoenix
+Rich Dad Poor Dad,Biography,97.23,2024-01-06,Cash,Phoenix
+To Kill a Mockingbird,Biography,47.39,2024-01-06,Digital Wallet,Houston
+Rich Dad Poor Dad,Fantasy,27.45,2024-01-06,Cash,Houston
+The Alchemist,Self-Help,19.82,2024-01-06,Cash,Chicago
+Harry Potter,History,48.91,2024-01-06,Credit Card,Phoenix
+Sapiens,Fiction,59.84,2024-01-06,Credit Card,New York
+The Great Gatsby,Fiction,37.1,2024-01-06,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Fiction,37.66,2024-01-06,Digital Wallet,Chicago
+1984,Fiction,16.86,2024-01-06,Digital Wallet,New York
+Sapiens,Self-Help,36.7,2024-01-06,Cash,New York
+Atomic Habits,Biography,37.33,2024-01-07,Cash,Los Angeles
+Sapiens,History,37.29,2024-01-07,Cash,New York
+Becoming,History,79.88,2024-01-07,Credit Card,New York
+The Alchemist,Classics,91.52,2024-01-07,Digital Wallet,New York
+Harry Potter,Fiction,66.7,2024-01-07,Digital Wallet,Chicago
+To Kill a Mockingbird,Classics,36.88,2024-01-07,Cash,New York
+To Kill a Mockingbird,Fiction,19.39,2024-01-07,Credit Card,Chicago
+Becoming,History,10.17,2024-01-07,Credit Card,Houston
+1984,History,58.11,2024-01-07,Cash,Houston
+Sapiens,Fiction,95.51,2024-01-07,Digital Wallet,Chicago
+1984,History,29.36,2024-01-07,Digital Wallet,New York
+Atomic Habits,Biography,11.22,2024-01-07,Digital Wallet,New York
+The Alchemist,Fantasy,92.49,2024-01-07,Credit Card,Houston
+The Great Gatsby,History,27.6,2024-01-07,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,37.55,2024-01-07,Credit Card,Houston
+1984,Self-Help,70.38,2024-01-07,Credit Card,Phoenix
+Sapiens,Fiction,71.72,2024-01-07,Digital Wallet,Houston
+Sapiens,History,45.94,2024-01-07,Cash,New York
+Sapiens,Fiction,5.44,2024-01-07,Credit Card,New York
+1984,Biography,5.12,2024-01-07,Digital Wallet,Los Angeles
+Becoming,Fantasy,18.88,2024-01-07,Cash,Chicago
+The Great Gatsby,Fiction,38.76,2024-01-07,Cash,Phoenix
+The Great Gatsby,Classics,98.3,2024-01-07,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Self-Help,79.21,2024-01-07,Credit Card,Phoenix
+Sapiens,Biography,79.47,2024-01-08,Cash,Houston
+Sapiens,Fiction,24.02,2024-01-08,Digital Wallet,Phoenix
+Becoming,Self-Help,78.58,2024-01-08,Cash,Phoenix
+The Subtle Art of Not Giving a F*ck,Fiction,15.4,2024-01-08,Credit Card,Phoenix
+To Kill a Mockingbird,Fantasy,69.35,2024-01-08,Digital Wallet,New York
+Harry Potter,Biography,73.74,2024-01-08,Credit Card,New York
+Harry Potter,Classics,62.15,2024-01-08,Cash,Chicago
+Rich Dad Poor Dad,Biography,89.66,2024-01-08,Digital Wallet,Los Angeles
+The Great Gatsby,Fantasy,22.28,2024-01-08,Credit Card,Phoenix
+Becoming,Fiction,22.06,2024-01-08,Digital Wallet,New York
+1984,Biography,99.04,2024-01-08,Credit Card,Chicago
+Harry Potter,Self-Help,9.26,2024-01-08,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Classics,90.15,2024-01-08,Cash,Los Angeles
+Harry Potter,Classics,15.02,2024-01-08,Digital Wallet,Los Angeles
+To Kill a Mockingbird,Fiction,26.84,2024-01-08,Cash,Phoenix
+The Alchemist,Self-Help,79.72,2024-01-08,Credit Card,New York
+The Alchemist,History,88.27,2024-01-08,Cash,Los Angeles
+The Alchemist,Self-Help,96.79,2024-01-08,Cash,Chicago
+Harry Potter,History,28.61,2024-01-08,Cash,Phoenix
+Becoming,Self-Help,38.15,2024-01-08,Credit Card,Los Angeles
+The Subtle Art of Not Giving a F*ck,Fiction,94.21,2024-01-08,Cash,Phoenix
+Harry Potter,Self-Help,58.86,2024-01-08,Cash,Phoenix
+1984,Fiction,48.93,2024-01-08,Cash,New York
+Atomic Habits,Fantasy,33.8,2024-01-08,Credit Card,Houston
+Harry Potter,Self-Help,89.22,2024-01-09,Digital Wallet,Houston
+To Kill a Mockingbird,Fantasy,69.58,2024-01-09,Credit Card,Los Angeles
+Rich Dad Poor Dad,Biography,88.92,2024-01-09,Cash,Phoenix
+The Subtle Art of Not Giving a F*ck,History,74.19,2024-01-09,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Biography,13.32,2024-01-09,Credit Card,New York
+Atomic Habits,Self-Help,36.8,2024-01-09,Credit Card,Houston
+1984,Classics,12.98,2024-01-09,Digital Wallet,Los Angeles
+Sapiens,History,12.05,2024-01-09,Cash,Los Angeles
+1984,Fantasy,17.14,2024-01-09,Cash,Los Angeles
+To Kill a Mockingbird,Fantasy,48.27,2024-01-09,Cash,Chicago
+Sapiens,Fantasy,92.38,2024-01-09,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,Fiction,9.11,2024-01-09,Credit Card,Los Angeles
+Sapiens,Fiction,26.61,2024-01-09,Cash,Houston
+Harry Potter,Self-Help,46.37,2024-01-09,Credit Card,Houston
+Becoming,Fantasy,82.85,2024-01-09,Digital Wallet,Phoenix
+Sapiens,Self-Help,16.21,2024-01-09,Credit Card,Los Angeles
+Becoming,Fiction,47.57,2024-01-09,Credit Card,Phoenix
+Atomic Habits,History,41.75,2024-01-09,Digital Wallet,Houston
+Becoming,Fantasy,34.1,2024-01-09,Credit Card,Houston
+The Great Gatsby,History,63.79,2024-01-09,Digital Wallet,Phoenix
+Sapiens,History,25.83,2024-01-09,Cash,Houston
+1984,Self-Help,44.0,2024-01-09,Digital Wallet,Phoenix
+To Kill a Mockingbird,Fantasy,69.45,2024-01-09,Digital Wallet,Phoenix
+1984,Fiction,31.9,2024-01-09,Credit Card,Phoenix
+Harry Potter,Fantasy,37.72,2024-01-10,Credit Card,Phoenix
+Sapiens,Fiction,53.48,2024-01-10,Credit Card,Houston
+The Great Gatsby,Classics,67.58,2024-01-10,Digital Wallet,Phoenix
+The Alchemist,History,53.59,2024-01-10,Digital Wallet,Chicago
+1984,History,80.83,2024-01-10,Cash,Los Angeles
+Becoming,Fantasy,39.26,2024-01-10,Digital Wallet,Los Angeles
+The Great Gatsby,Self-Help,40.1,2024-01-10,Digital Wallet,New York
+Atomic Habits,Biography,29.09,2024-01-10,Cash,Phoenix
+Harry Potter,Self-Help,89.98,2024-01-10,Digital Wallet,Chicago
+Harry Potter,Biography,53.31,2024-01-10,Cash,Los Angeles
+The Great Gatsby,Classics,40.68,2024-01-10,Cash,New York
+Becoming,Fantasy,79.05,2024-01-10,Cash,Phoenix
+The Subtle Art of Not Giving a F*ck,Fiction,62.62,2024-01-10,Cash,New York
+Sapiens,Biography,48.57,2024-01-10,Credit Card,Phoenix
+Harry Potter,Self-Help,21.77,2024-01-10,Digital Wallet,New York
+Sapiens,Fiction,86.21,2024-01-10,Cash,Los Angeles
+The Alchemist,Biography,18.14,2024-01-10,Cash,Houston
+The Subtle Art of Not Giving a F*ck,History,30.67,2024-01-10,Credit Card,Phoenix
+Harry Potter,Self-Help,48.75,2024-01-10,Cash,Los Angeles
+The Subtle Art of Not Giving a F*ck,Biography,7.17,2024-01-10,Cash,Phoenix
+Harry Potter,History,98.11,2024-01-10,Credit Card,Los Angeles
+Harry Potter,Fiction,30.91,2024-01-10,Cash,Phoenix
+Becoming,Fiction,80.5,2024-01-10,Cash,Los Angeles
+Rich Dad Poor Dad,Fiction,36.4,2024-01-10,Credit Card,Houston
+1984,Fiction,94.4,2024-01-11,Digital Wallet,Houston
+To Kill a Mockingbird,Biography,42.07,2024-01-11,Digital Wallet,Chicago
+The Great Gatsby,History,72.86,2024-01-11,Credit Card,Chicago
+The Alchemist,Self-Help,75.18,2024-01-11,Credit Card,Houston
+Harry Potter,Fantasy,34.55,2024-01-11,Credit Card,Los Angeles
+The Subtle Art of Not Giving a F*ck,History,15.45,2024-01-11,Credit Card,Phoenix
+1984,Self-Help,86.33,2024-01-11,Credit Card,Phoenix
+Atomic Habits,Classics,37.13,2024-01-11,Digital Wallet,Houston
+Sapiens,Fantasy,40.31,2024-01-11,Credit Card,Los Angeles
+Harry Potter,Classics,62.5,2024-01-11,Digital Wallet,New York
+Rich Dad Poor Dad,Fantasy,72.25,2024-01-11,Cash,Houston
+The Alchemist,Fiction,82.77,2024-01-11,Digital Wallet,New York
+Sapiens,Fiction,60.42,2024-01-11,Credit Card,New York
+Becoming,History,74.89,2024-01-11,Credit Card,Chicago
+1984,History,18.94,2024-01-11,Credit Card,Phoenix
+The Great Gatsby,Self-Help,76.13,2024-01-11,Digital Wallet,New York
+To Kill a Mockingbird,Fantasy,15.96,2024-01-11,Digital Wallet,New York
+The Great Gatsby,Biography,6.2,2024-01-11,Digital Wallet,New York
+The Great Gatsby,History,86.79,2024-01-11,Cash,Los Angeles
+To Kill a Mockingbird,Fantasy,51.24,2024-01-11,Digital Wallet,Chicago
+Rich Dad Poor Dad,Fantasy,88.69,2024-01-11,Digital Wallet,New York
+Rich Dad Poor Dad,Self-Help,18.7,2024-01-11,Credit Card,Phoenix
+The Great Gatsby,History,67.33,2024-01-11,Cash,Chicago
+Atomic Habits,Self-Help,45.43,2024-01-11,Digital Wallet,New York
+1984,Self-Help,51.19,2024-01-12,Cash,Phoenix
+To Kill a Mockingbird,Fantasy,28.06,2024-01-12,Cash,Houston
+Rich Dad Poor Dad,Biography,94.26,2024-01-12,Cash,Houston
+The Subtle Art of Not Giving a F*ck,Fiction,63.06,2024-01-12,Digital Wallet,Houston
+To Kill a Mockingbird,Biography,10.9,2024-01-12,Cash,Phoenix
+Rich Dad Poor Dad,Self-Help,25.59,2024-01-12,Digital Wallet,Houston
+Rich Dad Poor Dad,Self-Help,80.68,2024-01-12,Digital Wallet,Los Angeles
+Rich Dad Poor Dad,Fiction,43.34,2024-01-12,Digital Wallet,Phoenix
+Atomic Habits,Fiction,58.89,2024-01-12,Cash,Phoenix
+Harry Potter,Classics,33.25,2024-01-12,Digital Wallet,Los Angeles
+The Alchemist,Self-Help,5.34,2024-01-12,Digital Wallet,New York
+Harry Potter,Fantasy,73.49,2024-01-12,Digital Wallet,Los Angeles
+Harry Potter,Self-Help,76.31,2024-01-12,Cash,New York
+Harry Potter,History,86.41,2024-01-12,Credit Card,Chicago
+Atomic Habits,Fantasy,85.42,2024-01-12,Digital Wallet,Phoenix
+Atomic Habits,Fantasy,50.69,2024-01-12,Cash,Phoenix
+Sapiens,History,37.67,2024-01-12,Credit Card,New York
+1984,Fantasy,26.38,2024-01-12,Credit Card,Chicago
+Rich Dad Poor Dad,Classics,97.97,2024-01-12,Cash,New York
+1984,Self-Help,68.74,2024-01-12,Cash,Houston
+To Kill a Mockingbird,History,5.9,2024-01-12,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Fiction,25.38,2024-01-12,Cash,New York
+Becoming,Classics,75.78,2024-01-12,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Fantasy,6.75,2024-01-12,Cash,Phoenix
+Rich Dad Poor Dad,Fiction,32.03,2024-01-13,Digital Wallet,New York
+1984,Self-Help,70.53,2024-01-13,Credit Card,New York
+Harry Potter,History,91.58,2024-01-13,Credit Card,Los Angeles
+Rich Dad Poor Dad,Fantasy,61.28,2024-01-13,Digital Wallet,Los Angeles
+Atomic Habits,Fiction,29.21,2024-01-13,Digital Wallet,Chicago
+Rich Dad Poor Dad,Self-Help,50.55,2024-01-13,Digital Wallet,Houston
+Rich Dad Poor Dad,Fantasy,63.47,2024-01-13,Cash,New York
+Becoming,Classics,92.48,2024-01-13,Credit Card,Houston
+Rich Dad Poor Dad,Fiction,84.94,2024-01-13,Credit Card,New York
+Atomic Habits,Biography,79.71,2024-01-13,Credit Card,Houston
+Atomic Habits,History,64.26,2024-01-13,Digital Wallet,Phoenix
+Harry Potter,Biography,97.54,2024-01-13,Credit Card,Chicago
+To Kill a Mockingbird,Classics,69.77,2024-01-13,Digital Wallet,New York
+1984,Fantasy,42.31,2024-01-13,Cash,New York
+The Alchemist,Classics,54.5,2024-01-13,Digital Wallet,New York
+The Alchemist,Fiction,65.08,2024-01-13,Cash,New York
+To Kill a Mockingbird,Self-Help,80.92,2024-01-13,Digital Wallet,Chicago
+Becoming,Fantasy,93.44,2024-01-13,Cash,Houston
+Atomic Habits,Fantasy,67.26,2024-01-13,Credit Card,Houston
+The Great Gatsby,Fiction,80.25,2024-01-13,Credit Card,Phoenix
+Becoming,History,52.79,2024-01-13,Cash,Los Angeles
+Harry Potter,History,83.02,2024-01-13,Digital Wallet,Phoenix
+The Alchemist,Fiction,31.98,2024-01-13,Digital Wallet,New York
+1984,History,42.93,2024-01-13,Cash,Los Angeles
+Harry Potter,Classics,79.17,2024-01-14,Credit Card,New York
+Rich Dad Poor Dad,Fantasy,59.87,2024-01-14,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,History,42.62,2024-01-14,Cash,Los Angeles
+Atomic Habits,Biography,98.95,2024-01-14,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Biography,65.6,2024-01-14,Credit Card,New York
+The Alchemist,Classics,36.89,2024-01-14,Cash,Los Angeles
+Becoming,Fantasy,12.88,2024-01-14,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Fantasy,20.02,2024-01-14,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,History,45.35,2024-01-14,Credit Card,Chicago
+1984,Biography,22.4,2024-01-14,Credit Card,New York
+Becoming,Classics,22.44,2024-01-14,Cash,Los Angeles
+Sapiens,Classics,62.7,2024-01-14,Credit Card,Chicago
+Rich Dad Poor Dad,Fantasy,21.99,2024-01-14,Credit Card,Houston
+To Kill a Mockingbird,Fantasy,9.57,2024-01-14,Cash,Chicago
+Rich Dad Poor Dad,Biography,5.42,2024-01-14,Cash,New York
+Atomic Habits,Classics,28.36,2024-01-14,Digital Wallet,Phoenix
+To Kill a Mockingbird,Fiction,28.9,2024-01-14,Cash,Houston
+The Alchemist,Biography,51.16,2024-01-14,Digital Wallet,Los Angeles
+Harry Potter,Fiction,55.53,2024-01-14,Credit Card,Phoenix
+Rich Dad Poor Dad,Self-Help,89.31,2024-01-14,Digital Wallet,Houston
+Atomic Habits,Fantasy,92.67,2024-01-14,Cash,Houston
+Sapiens,Biography,33.26,2024-01-14,Digital Wallet,Houston
+To Kill a Mockingbird,Biography,77.8,2024-01-14,Digital Wallet,Chicago
+Harry Potter,Biography,60.22,2024-01-14,Digital Wallet,New York
+Rich Dad Poor Dad,Fantasy,96.79,2024-01-15,Credit Card,New York
+The Great Gatsby,Biography,64.65,2024-01-15,Cash,Los Angeles
+The Great Gatsby,Self-Help,32.25,2024-01-15,Digital Wallet,Houston
+To Kill a Mockingbird,Fantasy,26.52,2024-01-15,Credit Card,Phoenix
+Harry Potter,Biography,20.7,2024-01-15,Credit Card,New York
+Sapiens,Biography,29.97,2024-01-15,Cash,New York
+The Great Gatsby,Fiction,17.06,2024-01-15,Cash,Phoenix
+1984,Biography,93.65,2024-01-15,Digital Wallet,New York
+The Alchemist,Fiction,59.07,2024-01-15,Cash,New York
+Harry Potter,Fiction,92.91,2024-01-15,Credit Card,Chicago
+Sapiens,Classics,48.01,2024-01-15,Cash,Los Angeles
+1984,Classics,11.29,2024-01-15,Digital Wallet,Phoenix
+The Alchemist,History,87.07,2024-01-15,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,History,31.88,2024-01-15,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Self-Help,32.65,2024-01-15,Cash,Chicago
+Harry Potter,Fiction,74.71,2024-01-15,Cash,Houston
+Becoming,Self-Help,30.96,2024-01-15,Credit Card,Chicago
+Rich Dad Poor Dad,Biography,32.39,2024-01-15,Credit Card,Houston
+The Alchemist,Biography,74.84,2024-01-15,Cash,New York
+Atomic Habits,Fantasy,28.73,2024-01-15,Credit Card,Phoenix
+To Kill a Mockingbird,Fantasy,98.99,2024-01-15,Cash,Phoenix
+Sapiens,History,71.04,2024-01-15,Digital Wallet,Los Angeles
+To Kill a Mockingbird,Self-Help,8.97,2024-01-15,Cash,Chicago
+The Great Gatsby,Classics,70.39,2024-01-15,Digital Wallet,Los Angeles
+Rich Dad Poor Dad,Biography,20.25,2024-01-16,Credit Card,Phoenix
+1984,Fantasy,73.44,2024-01-16,Digital Wallet,Houston
+To Kill a Mockingbird,Biography,87.2,2024-01-16,Credit Card,Phoenix
+1984,History,12.33,2024-01-16,Digital Wallet,New York
+Sapiens,Fiction,74.67,2024-01-16,Digital Wallet,Chicago
+Harry Potter,Fantasy,9.77,2024-01-16,Credit Card,Houston
+The Alchemist,Fantasy,16.97,2024-01-16,Digital Wallet,Phoenix
+The Great Gatsby,Self-Help,36.75,2024-01-16,Cash,Houston
+The Subtle Art of Not Giving a F*ck,Classics,36.09,2024-01-16,Credit Card,New York
+Rich Dad Poor Dad,Biography,31.76,2024-01-16,Cash,Los Angeles
+1984,Fantasy,70.5,2024-01-16,Credit Card,Los Angeles
+1984,History,19.5,2024-01-16,Digital Wallet,Los Angeles
+Atomic Habits,History,33.25,2024-01-16,Cash,Chicago
+1984,Self-Help,6.87,2024-01-16,Digital Wallet,New York
+Sapiens,History,88.11,2024-01-16,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,36.72,2024-01-16,Cash,Chicago
+Harry Potter,Fantasy,35.94,2024-01-16,Credit Card,New York
+1984,Biography,83.8,2024-01-16,Cash,Houston
+The Alchemist,Fantasy,19.27,2024-01-16,Digital Wallet,Phoenix
+Becoming,History,79.76,2024-01-16,Credit Card,Chicago
+The Alchemist,Biography,83.81,2024-01-16,Cash,New York
+Atomic Habits,Fantasy,44.32,2024-01-16,Credit Card,Los Angeles
+Rich Dad Poor Dad,Biography,86.25,2024-01-16,Cash,New York
+Harry Potter,Classics,77.71,2024-01-16,Cash,Los Angeles
+The Subtle Art of Not Giving a F*ck,Biography,72.03,2024-01-17,Cash,Houston
+Sapiens,Fantasy,22.32,2024-01-17,Cash,Chicago
+Harry Potter,Biography,99.27,2024-01-17,Cash,Houston
+Atomic Habits,Self-Help,55.01,2024-01-17,Digital Wallet,New York
+Becoming,History,28.28,2024-01-17,Credit Card,Los Angeles
+To Kill a Mockingbird,Fantasy,18.77,2024-01-17,Digital Wallet,Chicago
+The Alchemist,Classics,66.12,2024-01-17,Credit Card,Chicago
+The Alchemist,History,34.17,2024-01-17,Cash,New York
+Harry Potter,Biography,5.63,2024-01-17,Digital Wallet,Phoenix
+Atomic Habits,Fiction,66.64,2024-01-17,Cash,Los Angeles
+The Great Gatsby,History,50.98,2024-01-17,Credit Card,New York
+Harry Potter,Self-Help,52.0,2024-01-17,Credit Card,Chicago
+Harry Potter,History,93.55,2024-01-17,Cash,Houston
+Rich Dad Poor Dad,Fantasy,9.08,2024-01-17,Digital Wallet,Houston
+Atomic Habits,Fantasy,18.59,2024-01-17,Credit Card,Chicago
+To Kill a Mockingbird,Fiction,34.84,2024-01-17,Cash,Chicago
+Rich Dad Poor Dad,Fantasy,21.83,2024-01-17,Credit Card,New York
+The Great Gatsby,Biography,97.03,2024-01-17,Cash,Los Angeles
+The Alchemist,Classics,14.98,2024-01-17,Credit Card,Los Angeles
+To Kill a Mockingbird,History,96.45,2024-01-17,Credit Card,Los Angeles
+Becoming,History,59.67,2024-01-17,Cash,Phoenix
+The Great Gatsby,Fantasy,61.07,2024-01-17,Digital Wallet,Houston
+Becoming,Fiction,29.84,2024-01-17,Cash,Houston
+1984,Self-Help,57.9,2024-01-17,Cash,Houston
+Sapiens,History,74.01,2024-01-18,Credit Card,Phoenix
+Harry Potter,Fantasy,49.49,2024-01-18,Credit Card,Houston
+Sapiens,History,7.15,2024-01-18,Credit Card,New York
+To Kill a Mockingbird,Biography,84.87,2024-01-18,Digital Wallet,Phoenix
+Sapiens,Fantasy,58.6,2024-01-18,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,34.15,2024-01-18,Digital Wallet,Phoenix
+The Subtle Art of Not Giving a F*ck,Self-Help,61.53,2024-01-18,Digital Wallet,Los Angeles
+To Kill a Mockingbird,History,93.48,2024-01-18,Digital Wallet,Phoenix
+The Great Gatsby,Fiction,97.49,2024-01-18,Credit Card,Los Angeles
+Sapiens,History,79.58,2024-01-18,Credit Card,Phoenix
+Sapiens,History,88.66,2024-01-18,Credit Card,Chicago
+Sapiens,Biography,67.09,2024-01-18,Cash,Los Angeles
+Becoming,Fiction,67.9,2024-01-18,Digital Wallet,Phoenix
+The Great Gatsby,Fiction,28.31,2024-01-18,Credit Card,Houston
+1984,Self-Help,33.89,2024-01-18,Credit Card,Phoenix
+Sapiens,Biography,91.76,2024-01-18,Cash,Chicago
+Rich Dad Poor Dad,Biography,45.2,2024-01-18,Credit Card,New York
+1984,Self-Help,31.39,2024-01-18,Credit Card,New York
+Harry Potter,Self-Help,48.51,2024-01-18,Cash,Houston
+Becoming,Self-Help,83.25,2024-01-18,Digital Wallet,Chicago
+1984,Fiction,67.75,2024-01-18,Credit Card,Houston
+Becoming,Fiction,76.31,2024-01-18,Digital Wallet,Phoenix
+To Kill a Mockingbird,History,32.85,2024-01-18,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,49.02,2024-01-18,Digital Wallet,Los Angeles
+1984,Classics,9.23,2024-01-19,Cash,Houston
+To Kill a Mockingbird,Biography,14.53,2024-01-19,Digital Wallet,Houston
+Sapiens,Biography,59.47,2024-01-19,Cash,Houston
+Sapiens,Self-Help,48.64,2024-01-19,Credit Card,New York
+To Kill a Mockingbird,History,8.64,2024-01-19,Credit Card,Phoenix
+To Kill a Mockingbird,History,36.03,2024-01-19,Credit Card,Los Angeles
+Becoming,Self-Help,93.31,2024-01-19,Credit Card,Phoenix
+Harry Potter,Fantasy,97.03,2024-01-19,Digital Wallet,New York
+Atomic Habits,Self-Help,39.01,2024-01-19,Digital Wallet,Phoenix
+Atomic Habits,Self-Help,65.55,2024-01-19,Credit Card,New York
+1984,Classics,34.03,2024-01-19,Credit Card,Chicago
+Atomic Habits,Self-Help,54.24,2024-01-19,Cash,Chicago
+Rich Dad Poor Dad,Biography,6.73,2024-01-19,Digital Wallet,Chicago
+Harry Potter,History,35.04,2024-01-19,Digital Wallet,Houston
+1984,Classics,61.23,2024-01-19,Credit Card,Phoenix
+Rich Dad Poor Dad,History,83.98,2024-01-19,Credit Card,Phoenix
+To Kill a Mockingbird,Biography,55.61,2024-01-19,Cash,Phoenix
+Becoming,Biography,75.61,2024-01-19,Credit Card,Phoenix
+Rich Dad Poor Dad,Fiction,41.87,2024-01-19,Credit Card,New York
+To Kill a Mockingbird,Self-Help,74.84,2024-01-19,Credit Card,Houston
+Atomic Habits,Classics,81.0,2024-01-19,Cash,Los Angeles
+1984,Fantasy,98.48,2024-01-19,Digital Wallet,Los Angeles
+The Subtle Art of Not Giving a F*ck,Self-Help,18.11,2024-01-19,Cash,Houston
+Harry Potter,Biography,53.93,2024-01-19,Cash,Chicago
+Atomic Habits,Biography,88.21,2024-01-20,Cash,Chicago
+The Alchemist,Classics,35.97,2024-01-20,Digital Wallet,Houston
+1984,History,24.32,2024-01-20,Digital Wallet,Phoenix
+The Great Gatsby,History,52.44,2024-01-20,Cash,New York
+Rich Dad Poor Dad,Fantasy,20.94,2024-01-20,Cash,Houston
+The Great Gatsby,Fantasy,21.42,2024-01-20,Digital Wallet,Houston
+The Great Gatsby,Biography,90.48,2024-01-20,Credit Card,Phoenix
+To Kill a Mockingbird,Classics,42.38,2024-01-20,Credit Card,New York
+To Kill a Mockingbird,Biography,31.24,2024-01-20,Cash,Chicago
+The Great Gatsby,Fiction,97.23,2024-01-20,Credit Card,Chicago
+Rich Dad Poor Dad,Biography,71.33,2024-01-20,Credit Card,Houston
+1984,History,54.05,2024-01-20,Credit Card,New York
+The Alchemist,Biography,9.97,2024-01-20,Cash,New York
+1984,Self-Help,43.65,2024-01-20,Digital Wallet,Houston
+Harry Potter,Fantasy,58.98,2024-01-20,Digital Wallet,Los Angeles
+Sapiens,History,64.13,2024-01-20,Credit Card,New York
+Becoming,Self-Help,10.06,2024-01-20,Cash,Phoenix
+Harry Potter,Fantasy,69.23,2024-01-20,Credit Card,Phoenix
+Rich Dad Poor Dad,Self-Help,92.97,2024-01-20,Cash,New York
+The Alchemist,Self-Help,51.39,2024-01-20,Credit Card,Chicago
+Atomic Habits,History,12.88,2024-01-20,Cash,Chicago
+Rich Dad Poor Dad,Fantasy,19.24,2024-01-20,Cash,Los Angeles
+Harry Potter,Fiction,75.17,2024-01-20,Cash,New York
+The Subtle Art of Not Giving a F*ck,Classics,89.49,2024-01-20,Credit Card,Houston
+Harry Potter,History,96.51,2024-01-21,Cash,Chicago
+The Great Gatsby,Fantasy,42.29,2024-01-21,Digital Wallet,Chicago
+The Alchemist,History,11.27,2024-01-21,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Biography,98.03,2024-01-21,Cash,Phoenix
+The Alchemist,Fantasy,50.4,2024-01-21,Credit Card,Los Angeles
+Becoming,Self-Help,94.76,2024-01-21,Credit Card,Los Angeles
+Harry Potter,Self-Help,46.51,2024-01-21,Credit Card,Los Angeles
+Becoming,Fiction,54.93,2024-01-21,Digital Wallet,Chicago
+Rich Dad Poor Dad,Biography,74.03,2024-01-21,Credit Card,Houston
+The Great Gatsby,Fantasy,97.95,2024-01-21,Digital Wallet,Phoenix
+Sapiens,History,42.06,2024-01-21,Digital Wallet,Los Angeles
+The Great Gatsby,Classics,94.93,2024-01-21,Cash,New York
+The Alchemist,Biography,68.63,2024-01-21,Digital Wallet,Phoenix
+To Kill a Mockingbird,Biography,97.18,2024-01-21,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,81.23,2024-01-21,Cash,Los Angeles
+Sapiens,Fiction,49.31,2024-01-21,Digital Wallet,New York
+To Kill a Mockingbird,Fiction,20.4,2024-01-21,Digital Wallet,Chicago
+Rich Dad Poor Dad,Self-Help,90.54,2024-01-21,Cash,Los Angeles
+Atomic Habits,Fiction,55.78,2024-01-21,Digital Wallet,New York
+1984,Self-Help,8.38,2024-01-21,Digital Wallet,New York
+To Kill a Mockingbird,Biography,71.91,2024-01-21,Cash,Chicago
+Becoming,Fiction,77.41,2024-01-21,Digital Wallet,Los Angeles
+The Subtle Art of Not Giving a F*ck,Classics,5.64,2024-01-21,Cash,Chicago
+To Kill a Mockingbird,Self-Help,84.78,2024-01-21,Digital Wallet,New York
+The Alchemist,Fantasy,25.13,2024-01-22,Credit Card,New York
+1984,History,15.35,2024-01-22,Credit Card,Los Angeles
+Becoming,History,68.28,2024-01-22,Credit Card,Phoenix
+Harry Potter,History,37.56,2024-01-22,Digital Wallet,Chicago
+Harry Potter,History,43.91,2024-01-22,Cash,Houston
+Atomic Habits,Biography,88.41,2024-01-22,Credit Card,Chicago
+Atomic Habits,Biography,87.55,2024-01-22,Credit Card,New York
+Rich Dad Poor Dad,History,29.66,2024-01-22,Cash,Los Angeles
+1984,Biography,8.36,2024-01-22,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Fantasy,72.39,2024-01-22,Digital Wallet,New York
+To Kill a Mockingbird,Classics,22.5,2024-01-22,Credit Card,Phoenix
+The Alchemist,History,36.39,2024-01-22,Cash,New York
+Atomic Habits,Biography,68.69,2024-01-22,Credit Card,Houston
+The Alchemist,Self-Help,14.01,2024-01-22,Digital Wallet,New York
+Atomic Habits,Biography,89.81,2024-01-22,Cash,Chicago
+Atomic Habits,Biography,17.56,2024-01-22,Digital Wallet,Houston
+Atomic Habits,Self-Help,13.17,2024-01-22,Credit Card,Phoenix
+Harry Potter,Fantasy,51.46,2024-01-22,Cash,Chicago
+Sapiens,Biography,70.57,2024-01-22,Digital Wallet,New York
+The Alchemist,Fantasy,53.53,2024-01-22,Cash,Houston
+Becoming,Fiction,99.8,2024-01-22,Credit Card,Los Angeles
+To Kill a Mockingbird,Classics,90.99,2024-01-22,Digital Wallet,Chicago
+The Alchemist,Fantasy,69.82,2024-01-22,Cash,Houston
+Sapiens,Classics,31.05,2024-01-22,Credit Card,Houston
+Harry Potter,History,79.25,2024-01-23,Digital Wallet,Chicago
+1984,Fantasy,48.6,2024-01-23,Digital Wallet,New York
+To Kill a Mockingbird,Biography,62.58,2024-01-23,Credit Card,Phoenix
+Sapiens,Classics,86.85,2024-01-23,Credit Card,Houston
+Rich Dad Poor Dad,Classics,19.83,2024-01-23,Cash,Chicago
+To Kill a Mockingbird,Fantasy,51.42,2024-01-23,Credit Card,Chicago
+To Kill a Mockingbird,Self-Help,25.56,2024-01-23,Cash,Phoenix
+The Great Gatsby,Self-Help,54.2,2024-01-23,Cash,Chicago
+To Kill a Mockingbird,Classics,15.46,2024-01-23,Cash,New York
+Rich Dad Poor Dad,Fantasy,27.62,2024-01-23,Digital Wallet,Los Angeles
+The Great Gatsby,Self-Help,99.0,2024-01-23,Digital Wallet,Los Angeles
+1984,History,97.9,2024-01-23,Digital Wallet,Phoenix
+Becoming,Biography,57.55,2024-01-23,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Fantasy,97.33,2024-01-23,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,History,77.03,2024-01-23,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Self-Help,85.27,2024-01-23,Digital Wallet,New York
+Harry Potter,Fiction,22.85,2024-01-23,Credit Card,Chicago
+Harry Potter,Fiction,14.1,2024-01-23,Credit Card,Los Angeles
+Becoming,History,94.15,2024-01-23,Cash,Los Angeles
+Atomic Habits,Self-Help,61.61,2024-01-23,Credit Card,Houston
+Atomic Habits,Biography,35.86,2024-01-23,Digital Wallet,Los Angeles
+The Subtle Art of Not Giving a F*ck,Classics,54.51,2024-01-23,Cash,Chicago
+1984,Fantasy,24.32,2024-01-23,Digital Wallet,Phoenix
+Rich Dad Poor Dad,Fantasy,58.72,2024-01-23,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Biography,32.62,2024-01-24,Cash,Chicago
+Sapiens,Self-Help,94.77,2024-01-24,Digital Wallet,Los Angeles
+Harry Potter,Fiction,70.52,2024-01-24,Cash,Chicago
+Harry Potter,History,51.49,2024-01-24,Credit Card,New York
+Sapiens,Classics,82.0,2024-01-24,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Fiction,48.98,2024-01-24,Digital Wallet,Los Angeles
+The Great Gatsby,Fiction,99.35,2024-01-24,Credit Card,Phoenix
+The Alchemist,Fantasy,87.52,2024-01-24,Cash,Houston
+To Kill a Mockingbird,Biography,90.22,2024-01-24,Cash,Los Angeles
+Harry Potter,Biography,50.11,2024-01-24,Digital Wallet,Chicago
+Atomic Habits,Biography,92.57,2024-01-24,Digital Wallet,Phoenix
+The Great Gatsby,Fantasy,30.93,2024-01-24,Cash,New York
+1984,History,30.02,2024-01-24,Cash,New York
+The Great Gatsby,Fantasy,66.02,2024-01-24,Credit Card,Los Angeles
+Becoming,History,65.19,2024-01-24,Digital Wallet,New York
+1984,Classics,77.27,2024-01-24,Digital Wallet,New York
+Rich Dad Poor Dad,Self-Help,19.93,2024-01-24,Digital Wallet,Los Angeles
+Sapiens,Fiction,42.45,2024-01-24,Cash,Los Angeles
+The Alchemist,Self-Help,90.69,2024-01-24,Cash,New York
+1984,Fiction,11.05,2024-01-24,Cash,Houston
+Harry Potter,Self-Help,76.19,2024-01-24,Digital Wallet,Los Angeles
+1984,Classics,74.33,2024-01-24,Credit Card,New York
+Atomic Habits,Classics,86.02,2024-01-24,Cash,Los Angeles
+Atomic Habits,Classics,47.52,2024-01-24,Credit Card,New York
+Sapiens,Biography,53.88,2024-01-25,Credit Card,Chicago
+To Kill a Mockingbird,History,13.96,2024-01-25,Cash,Phoenix
+Harry Potter,History,21.67,2024-01-25,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Biography,26.66,2024-01-25,Digital Wallet,Phoenix
+The Great Gatsby,History,86.35,2024-01-25,Credit Card,Los Angeles
+Harry Potter,Biography,89.22,2024-01-25,Digital Wallet,Chicago
+1984,Biography,44.11,2024-01-25,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Fiction,7.28,2024-01-25,Digital Wallet,Houston
+Harry Potter,History,73.44,2024-01-25,Cash,New York
+The Alchemist,History,91.62,2024-01-25,Digital Wallet,Chicago
+Becoming,Fiction,52.59,2024-01-25,Digital Wallet,Houston
+The Great Gatsby,History,87.38,2024-01-25,Cash,Chicago
+The Great Gatsby,Fantasy,76.08,2024-01-25,Credit Card,Houston
+1984,History,49.16,2024-01-25,Cash,Los Angeles
+Sapiens,Biography,85.58,2024-01-25,Credit Card,Houston
+Harry Potter,History,15.24,2024-01-25,Cash,Chicago
+The Great Gatsby,Classics,19.28,2024-01-25,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,56.44,2024-01-25,Credit Card,Chicago
+Harry Potter,History,12.05,2024-01-25,Digital Wallet,New York
+The Great Gatsby,Self-Help,10.06,2024-01-25,Cash,Houston
+1984,Classics,50.86,2024-01-25,Credit Card,Los Angeles
+Sapiens,Fiction,68.32,2024-01-25,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Fantasy,62.96,2024-01-25,Cash,Los Angeles
+Atomic Habits,Fiction,86.21,2024-01-25,Cash,Chicago
+The Alchemist,Self-Help,72.62,2024-01-26,Credit Card,Chicago
+To Kill a Mockingbird,Fantasy,75.06,2024-01-26,Credit Card,Los Angeles
+Sapiens,Fiction,23.58,2024-01-26,Digital Wallet,Los Angeles
+Atomic Habits,Fiction,47.53,2024-01-26,Digital Wallet,New York
+Atomic Habits,History,30.97,2024-01-26,Cash,Chicago
+The Alchemist,Biography,76.07,2024-01-26,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,98.58,2024-01-26,Cash,Phoenix
+Atomic Habits,Classics,37.5,2024-01-26,Digital Wallet,Phoenix
+The Great Gatsby,Fantasy,49.81,2024-01-26,Cash,Phoenix
+Rich Dad Poor Dad,History,84.08,2024-01-26,Cash,Phoenix
+Becoming,Fiction,52.97,2024-01-26,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,46.33,2024-01-26,Cash,Chicago
+1984,Fantasy,25.22,2024-01-26,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,9.33,2024-01-26,Cash,Houston
+Becoming,Self-Help,39.26,2024-01-26,Credit Card,Chicago
+The Alchemist,Classics,94.65,2024-01-26,Credit Card,Phoenix
+1984,Fiction,45.75,2024-01-26,Digital Wallet,New York
+Becoming,Biography,70.34,2024-01-26,Digital Wallet,Chicago
+Harry Potter,History,56.44,2024-01-26,Cash,Chicago
+Sapiens,Fiction,90.23,2024-01-26,Credit Card,Chicago
+Sapiens,Self-Help,91.53,2024-01-26,Digital Wallet,Chicago
+Harry Potter,Fiction,94.28,2024-01-26,Credit Card,Chicago
+The Alchemist,Fantasy,82.31,2024-01-26,Digital Wallet,Chicago
+The Great Gatsby,Biography,88.33,2024-01-26,Digital Wallet,Los Angeles
+Harry Potter,Classics,33.41,2024-01-27,Digital Wallet,Los Angeles
+The Alchemist,Biography,5.85,2024-01-27,Digital Wallet,Chicago
+1984,History,73.99,2024-01-27,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Classics,55.1,2024-01-27,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,30.71,2024-01-27,Cash,Houston
+Harry Potter,Classics,53.79,2024-01-27,Cash,New York
+The Alchemist,History,43.45,2024-01-27,Cash,Houston
+To Kill a Mockingbird,Self-Help,35.27,2024-01-27,Credit Card,Phoenix
+The Great Gatsby,Classics,90.73,2024-01-27,Credit Card,Chicago
+Rich Dad Poor Dad,Fantasy,67.29,2024-01-27,Credit Card,Phoenix
+Rich Dad Poor Dad,Fiction,62.57,2024-01-27,Cash,Los Angeles
+Harry Potter,Self-Help,34.05,2024-01-27,Credit Card,Chicago
+The Great Gatsby,Self-Help,92.68,2024-01-27,Digital Wallet,Chicago
+Becoming,History,54.51,2024-01-27,Digital Wallet,Phoenix
+Becoming,Fiction,8.13,2024-01-27,Cash,Phoenix
+Rich Dad Poor Dad,History,98.77,2024-01-27,Credit Card,Phoenix
+Sapiens,Self-Help,67.33,2024-01-27,Cash,New York
+1984,History,41.6,2024-01-27,Digital Wallet,Los Angeles
+Atomic Habits,History,83.1,2024-01-27,Cash,Los Angeles
+The Subtle Art of Not Giving a F*ck,Classics,56.46,2024-01-27,Digital Wallet,Phoenix
+The Alchemist,History,63.29,2024-01-27,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Fantasy,34.26,2024-01-27,Cash,New York
+1984,Fantasy,15.68,2024-01-27,Cash,Los Angeles
+The Great Gatsby,History,71.64,2024-01-27,Credit Card,Los Angeles
+Harry Potter,Fantasy,14.0,2024-01-28,Cash,Phoenix
+Rich Dad Poor Dad,History,42.72,2024-01-28,Credit Card,Phoenix
+The Great Gatsby,Fiction,42.36,2024-01-28,Cash,Houston
+Sapiens,History,45.76,2024-01-28,Digital Wallet,Phoenix
+The Great Gatsby,Fiction,64.36,2024-01-28,Cash,Houston
+The Great Gatsby,Fantasy,84.87,2024-01-28,Digital Wallet,New York
+The Great Gatsby,Self-Help,60.68,2024-01-28,Cash,Phoenix
+The Great Gatsby,Fantasy,65.57,2024-01-28,Digital Wallet,Los Angeles
+1984,Fiction,39.83,2024-01-28,Cash,Houston
+To Kill a Mockingbird,Fantasy,39.21,2024-01-28,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,56.84,2024-01-28,Cash,Chicago
+To Kill a Mockingbird,Fantasy,98.23,2024-01-28,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Biography,79.62,2024-01-28,Credit Card,Chicago
+1984,Biography,28.52,2024-01-28,Credit Card,New York
+Sapiens,Fiction,99.84,2024-01-28,Credit Card,New York
+To Kill a Mockingbird,History,86.59,2024-01-28,Credit Card,Chicago
+The Great Gatsby,Self-Help,35.6,2024-01-28,Credit Card,Phoenix
+To Kill a Mockingbird,Self-Help,11.59,2024-01-28,Digital Wallet,Los Angeles
+Harry Potter,Classics,70.05,2024-01-28,Digital Wallet,Los Angeles
+Sapiens,Fantasy,44.59,2024-01-28,Digital Wallet,Los Angeles
+The Subtle Art of Not Giving a F*ck,History,19.39,2024-01-28,Credit Card,Los Angeles
+The Great Gatsby,History,43.39,2024-01-28,Digital Wallet,Los Angeles
+1984,Self-Help,57.84,2024-01-28,Digital Wallet,Los Angeles
+Rich Dad Poor Dad,Biography,85.11,2024-01-28,Credit Card,Phoenix
+Rich Dad Poor Dad,History,50.59,2024-01-29,Cash,Houston
+To Kill a Mockingbird,Fantasy,73.61,2024-01-29,Credit Card,New York
+The Alchemist,History,51.95,2024-01-29,Credit Card,Los Angeles
+To Kill a Mockingbird,Fantasy,99.75,2024-01-29,Credit Card,Los Angeles
+Becoming,Biography,49.82,2024-01-29,Cash,Los Angeles
+Harry Potter,Fantasy,54.15,2024-01-29,Digital Wallet,New York
+1984,Fiction,86.64,2024-01-29,Credit Card,Phoenix
+To Kill a Mockingbird,Biography,57.4,2024-01-29,Credit Card,New York
+1984,Self-Help,15.29,2024-01-29,Credit Card,Los Angeles
+Becoming,Fiction,25.82,2024-01-29,Digital Wallet,Chicago
+Atomic Habits,Self-Help,66.09,2024-01-29,Digital Wallet,Houston
+Atomic Habits,History,60.98,2024-01-29,Cash,Phoenix
+To Kill a Mockingbird,History,99.65,2024-01-29,Credit Card,Phoenix
+To Kill a Mockingbird,Self-Help,43.99,2024-01-29,Cash,Chicago
+Harry Potter,Fantasy,17.99,2024-01-29,Digital Wallet,Los Angeles
+Becoming,Biography,76.86,2024-01-29,Digital Wallet,Phoenix
+1984,History,27.35,2024-01-29,Credit Card,Houston
+The Great Gatsby,Self-Help,12.15,2024-01-29,Digital Wallet,Houston
+Harry Potter,Fantasy,93.95,2024-01-29,Digital Wallet,Phoenix
+The Subtle Art of Not Giving a F*ck,History,45.2,2024-01-29,Digital Wallet,Chicago
+Rich Dad Poor Dad,History,63.9,2024-01-29,Cash,Los Angeles
+1984,Fiction,86.34,2024-01-29,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Fantasy,75.09,2024-01-29,Cash,Houston
+Sapiens,History,51.4,2024-01-29,Cash,Phoenix
+1984,History,67.67,2024-01-30,Cash,Chicago
+Harry Potter,Fantasy,91.57,2024-01-30,Digital Wallet,Houston
+To Kill a Mockingbird,Fiction,95.82,2024-01-30,Cash,Phoenix
+Rich Dad Poor Dad,Classics,82.19,2024-01-30,Credit Card,Los Angeles
+The Alchemist,Fiction,97.89,2024-01-30,Cash,Los Angeles
+Harry Potter,History,31.4,2024-01-30,Digital Wallet,Los Angeles
+The Great Gatsby,Classics,15.98,2024-01-30,Credit Card,Houston
+The Alchemist,History,50.95,2024-01-30,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,59.34,2024-01-30,Credit Card,Los Angeles
+Sapiens,Self-Help,88.22,2024-01-30,Credit Card,Houston
+To Kill a Mockingbird,Biography,39.21,2024-01-30,Cash,Chicago
+The Alchemist,History,84.9,2024-01-30,Cash,Houston
+Harry Potter,Fiction,8.53,2024-01-30,Cash,Phoenix
+Atomic Habits,Biography,48.6,2024-01-30,Digital Wallet,Los Angeles
+The Subtle Art of Not Giving a F*ck,Classics,9.35,2024-01-30,Digital Wallet,Los Angeles
+Sapiens,Fantasy,87.91,2024-01-30,Digital Wallet,New York
+Atomic Habits,Fantasy,88.37,2024-01-30,Digital Wallet,Los Angeles
+Rich Dad Poor Dad,History,90.49,2024-01-30,Credit Card,Phoenix
+Sapiens,Biography,71.17,2024-01-30,Cash,New York
+Rich Dad Poor Dad,Fantasy,82.47,2024-01-30,Cash,Houston
+1984,History,35.51,2024-01-30,Digital Wallet,Phoenix
+Rich Dad Poor Dad,Classics,7.65,2024-01-30,Credit Card,Phoenix
+To Kill a Mockingbird,Self-Help,86.22,2024-01-30,Credit Card,Houston
+1984,Biography,91.0,2024-01-30,Digital Wallet,Phoenix
+Rich Dad Poor Dad,Fiction,82.05,2024-01-31,Digital Wallet,Chicago
+1984,History,16.96,2024-01-31,Credit Card,New York
+The Great Gatsby,Classics,51.07,2024-01-31,Credit Card,Los Angeles
+To Kill a Mockingbird,Fiction,33.12,2024-01-31,Digital Wallet,Los Angeles
+The Subtle Art of Not Giving a F*ck,Classics,65.56,2024-01-31,Digital Wallet,Los Angeles
+Harry Potter,Fantasy,22.46,2024-01-31,Credit Card,Los Angeles
+Rich Dad Poor Dad,History,45.9,2024-01-31,Cash,Phoenix
+Harry Potter,Biography,90.64,2024-01-31,Cash,Los Angeles
+The Subtle Art of Not Giving a F*ck,Classics,65.05,2024-01-31,Cash,Chicago
+Atomic Habits,History,51.76,2024-01-31,Cash,Los Angeles
+The Great Gatsby,Fiction,69.47,2024-01-31,Credit Card,Los Angeles
+Rich Dad Poor Dad,Self-Help,6.22,2024-01-31,Credit Card,Los Angeles
+To Kill a Mockingbird,Classics,89.15,2024-01-31,Digital Wallet,Phoenix
+1984,History,7.18,2024-01-31,Credit Card,Los Angeles
+The Alchemist,Classics,66.36,2024-01-31,Cash,Chicago
+Rich Dad Poor Dad,Classics,5.61,2024-01-31,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Self-Help,93.5,2024-01-31,Digital Wallet,Phoenix
+The Subtle Art of Not Giving a F*ck,Classics,68.83,2024-01-31,Credit Card,Phoenix
+Sapiens,Fantasy,15.35,2024-01-31,Digital Wallet,Houston
+1984,Classics,45.62,2024-01-31,Digital Wallet,Phoenix
+The Subtle Art of Not Giving a F*ck,Classics,91.12,2024-01-31,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Fiction,69.88,2024-01-31,Digital Wallet,New York
+The Great Gatsby,History,53.21,2024-01-31,Digital Wallet,Houston
+The Subtle Art of Not Giving a F*ck,Classics,48.05,2024-01-31,Cash,Los Angeles
+Harry Potter,History,43.26,2024-02-01,Credit Card,New York
+The Great Gatsby,Self-Help,64.04,2024-02-01,Cash,Los Angeles
+1984,Fantasy,83.88,2024-02-01,Digital Wallet,Phoenix
+To Kill a Mockingbird,Fiction,60.2,2024-02-01,Cash,Houston
+1984,Self-Help,57.76,2024-02-01,Credit Card,Houston
+1984,Self-Help,63.38,2024-02-01,Credit Card,Phoenix
+Rich Dad Poor Dad,Self-Help,66.3,2024-02-01,Credit Card,Phoenix
+Atomic Habits,Fantasy,56.89,2024-02-01,Digital Wallet,New York
+Becoming,Classics,20.37,2024-02-01,Cash,Houston
+To Kill a Mockingbird,Classics,53.53,2024-02-01,Digital Wallet,New York
+Atomic Habits,Fiction,55.22,2024-02-01,Cash,Houston
+The Great Gatsby,Fantasy,42.12,2024-02-01,Digital Wallet,Los Angeles
+1984,Fiction,48.41,2024-02-01,Credit Card,Phoenix
+Sapiens,Classics,71.3,2024-02-01,Digital Wallet,Chicago
+Rich Dad Poor Dad,Classics,6.29,2024-02-01,Cash,Houston
+Rich Dad Poor Dad,Biography,85.74,2024-02-01,Cash,Los Angeles
+Atomic Habits,Self-Help,18.58,2024-02-01,Cash,Chicago
+The Great Gatsby,Fantasy,90.99,2024-02-01,Credit Card,Chicago
+Becoming,History,84.77,2024-02-01,Credit Card,Houston
+Sapiens,Self-Help,44.47,2024-02-01,Digital Wallet,Chicago
+To Kill a Mockingbird,Classics,55.73,2024-02-01,Cash,Phoenix
+Rich Dad Poor Dad,Fiction,74.7,2024-02-01,Digital Wallet,New York
+The Subtle Art of Not Giving a F*ck,Self-Help,25.37,2024-02-01,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Fantasy,80.83,2024-02-01,Digital Wallet,Phoenix
+Atomic Habits,Biography,56.54,2024-02-02,Cash,Los Angeles
+The Subtle Art of Not Giving a F*ck,Fantasy,73.8,2024-02-02,Digital Wallet,Chicago
+Sapiens,Fantasy,22.81,2024-02-02,Credit Card,Los Angeles
+The Subtle Art of Not Giving a F*ck,Fiction,91.68,2024-02-02,Cash,Los Angeles
+Becoming,Self-Help,78.61,2024-02-02,Cash,Houston
+Rich Dad Poor Dad,Fiction,49.09,2024-02-02,Cash,New York
+Becoming,Fantasy,14.32,2024-02-02,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,History,83.72,2024-02-02,Cash,Houston
+Harry Potter,Classics,22.54,2024-02-02,Credit Card,New York
+Harry Potter,Fantasy,22.59,2024-02-02,Digital Wallet,Chicago
+Sapiens,Self-Help,65.31,2024-02-02,Digital Wallet,Phoenix
+Harry Potter,Self-Help,19.98,2024-02-02,Digital Wallet,Phoenix
+Rich Dad Poor Dad,History,17.61,2024-02-02,Digital Wallet,Houston
+The Great Gatsby,Fiction,67.42,2024-02-02,Credit Card,Houston
+Atomic Habits,Classics,35.29,2024-02-02,Credit Card,Houston
+Atomic Habits,Biography,65.14,2024-02-02,Cash,Chicago
+The Alchemist,Classics,88.66,2024-02-02,Digital Wallet,New York
+Atomic Habits,Self-Help,94.82,2024-02-02,Credit Card,New York
+Harry Potter,Fantasy,21.45,2024-02-02,Credit Card,Phoenix
+Rich Dad Poor Dad,Fiction,51.96,2024-02-02,Digital Wallet,Chicago
+To Kill a Mockingbird,Biography,28.24,2024-02-02,Cash,Houston
+The Subtle Art of Not Giving a F*ck,Classics,5.12,2024-02-02,Digital Wallet,Phoenix
+The Alchemist,Fiction,81.49,2024-02-02,Cash,Houston
+Harry Potter,Self-Help,44.24,2024-02-02,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,62.87,2024-02-03,Cash,New York
+Harry Potter,Fantasy,82.63,2024-02-03,Credit Card,Phoenix
+The Alchemist,Biography,67.42,2024-02-03,Credit Card,New York
+The Great Gatsby,Self-Help,37.5,2024-02-03,Digital Wallet,New York
+1984,Classics,41.07,2024-02-03,Digital Wallet,New York
+Atomic Habits,Self-Help,95.2,2024-02-03,Cash,Houston
+The Great Gatsby,Classics,22.98,2024-02-03,Credit Card,Los Angeles
+The Great Gatsby,Classics,59.45,2024-02-03,Credit Card,Houston
+1984,Classics,59.67,2024-02-03,Credit Card,Los Angeles
+1984,Fiction,17.66,2024-02-03,Credit Card,Chicago
+The Alchemist,Self-Help,85.1,2024-02-03,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,88.8,2024-02-03,Digital Wallet,Houston
+Rich Dad Poor Dad,Classics,39.21,2024-02-03,Cash,Chicago
+Harry Potter,Self-Help,73.06,2024-02-03,Cash,New York
+Atomic Habits,Self-Help,85.2,2024-02-03,Cash,New York
+The Great Gatsby,Self-Help,81.68,2024-02-03,Cash,Los Angeles
+The Great Gatsby,Self-Help,96.76,2024-02-03,Credit Card,Houston
+Sapiens,Biography,34.4,2024-02-03,Cash,New York
+To Kill a Mockingbird,Classics,28.89,2024-02-03,Credit Card,New York
+Atomic Habits,Self-Help,61.89,2024-02-03,Digital Wallet,New York
+Atomic Habits,Classics,47.39,2024-02-03,Credit Card,New York
+Sapiens,Biography,99.2,2024-02-03,Credit Card,Houston
+Rich Dad Poor Dad,Biography,7.92,2024-02-03,Credit Card,New York
+Atomic Habits,History,11.69,2024-02-03,Cash,Los Angeles
+Rich Dad Poor Dad,Self-Help,25.0,2024-02-04,Cash,New York
+The Great Gatsby,Classics,44.7,2024-02-04,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Fantasy,49.14,2024-02-04,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,36.29,2024-02-04,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Biography,12.43,2024-02-04,Credit Card,Chicago
+Rich Dad Poor Dad,Biography,73.99,2024-02-04,Digital Wallet,Houston
+Sapiens,Classics,79.47,2024-02-04,Digital Wallet,Los Angeles
+Becoming,Fiction,23.59,2024-02-04,Credit Card,New York
+1984,History,43.34,2024-02-04,Credit Card,Los Angeles
+Harry Potter,Self-Help,43.91,2024-02-04,Digital Wallet,Phoenix
+Harry Potter,Classics,8.94,2024-02-04,Credit Card,Houston
+1984,Fiction,54.56,2024-02-04,Cash,Chicago
+Atomic Habits,Fantasy,46.58,2024-02-04,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,96.37,2024-02-04,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Fiction,95.96,2024-02-04,Digital Wallet,Houston
+Becoming,Classics,92.61,2024-02-04,Credit Card,Los Angeles
+Sapiens,Fiction,64.86,2024-02-04,Credit Card,Los Angeles
+1984,Classics,86.84,2024-02-04,Cash,Los Angeles
+1984,Biography,69.25,2024-02-04,Digital Wallet,Houston
+To Kill a Mockingbird,Classics,71.15,2024-02-04,Cash,Chicago
+The Alchemist,Classics,52.25,2024-02-04,Credit Card,Chicago
+The Subtle Art of Not Giving a F*ck,Fantasy,16.75,2024-02-04,Cash,Chicago
+Atomic Habits,Fiction,45.09,2024-02-04,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Classics,87.77,2024-02-04,Credit Card,New York
+Sapiens,Classics,42.43,2024-02-05,Cash,New York
+The Alchemist,Self-Help,66.64,2024-02-05,Credit Card,Houston
+Rich Dad Poor Dad,History,15.23,2024-02-05,Digital Wallet,Houston
+Atomic Habits,Fiction,87.59,2024-02-05,Cash,Los Angeles
+Sapiens,Self-Help,27.46,2024-02-05,Digital Wallet,Houston
+The Alchemist,Self-Help,61.37,2024-02-05,Digital Wallet,Los Angeles
+Atomic Habits,Fiction,41.29,2024-02-05,Digital Wallet,Los Angeles
+Rich Dad Poor Dad,Fiction,25.38,2024-02-05,Cash,Los Angeles
+The Great Gatsby,Fiction,9.66,2024-02-05,Cash,Los Angeles
+Sapiens,Self-Help,94.04,2024-02-05,Cash,New York
+Rich Dad Poor Dad,Fantasy,52.3,2024-02-05,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,55.47,2024-02-05,Credit Card,Chicago
+Harry Potter,Fantasy,88.75,2024-02-05,Credit Card,Chicago
+Becoming,Fiction,12.94,2024-02-05,Digital Wallet,Los Angeles
+Sapiens,Classics,11.27,2024-02-05,Digital Wallet,Los Angeles
+1984,Self-Help,68.9,2024-02-05,Credit Card,Phoenix
+1984,Fiction,56.73,2024-02-05,Digital Wallet,Houston
+Sapiens,Fantasy,15.48,2024-02-05,Cash,Los Angeles
+Rich Dad Poor Dad,Classics,31.44,2024-02-05,Cash,Los Angeles
+Becoming,Biography,99.03,2024-02-05,Digital Wallet,Los Angeles
+The Great Gatsby,History,11.95,2024-02-05,Cash,New York
+The Great Gatsby,Classics,71.24,2024-02-05,Cash,New York
+The Great Gatsby,Fiction,33.54,2024-02-05,Cash,New York
+Atomic Habits,Self-Help,54.79,2024-02-05,Cash,Houston
+Becoming,Fantasy,92.55,2024-02-06,Cash,Phoenix
+The Great Gatsby,Biography,35.76,2024-02-06,Cash,Chicago
+Sapiens,Classics,49.74,2024-02-06,Digital Wallet,Los Angeles
+The Great Gatsby,Biography,18.21,2024-02-06,Cash,New York
+Sapiens,Fiction,31.95,2024-02-06,Cash,Los Angeles
+Atomic Habits,Biography,12.09,2024-02-06,Credit Card,Los Angeles
+Becoming,Fantasy,77.59,2024-02-06,Cash,New York
+The Subtle Art of Not Giving a F*ck,History,27.39,2024-02-06,Digital Wallet,Los Angeles
+Becoming,Biography,42.95,2024-02-06,Cash,Houston
+The Alchemist,Classics,12.98,2024-02-06,Digital Wallet,New York
+To Kill a Mockingbird,Biography,47.24,2024-02-06,Credit Card,Houston
+Sapiens,History,88.93,2024-02-06,Digital Wallet,Houston
+Becoming,Classics,57.56,2024-02-06,Credit Card,Houston
+Rich Dad Poor Dad,Classics,42.19,2024-02-06,Digital Wallet,Los Angeles
+Becoming,Fantasy,48.83,2024-02-06,Cash,Los Angeles
+Rich Dad Poor Dad,History,65.82,2024-02-06,Cash,Phoenix
+Atomic Habits,Self-Help,94.41,2024-02-06,Credit Card,Los Angeles
+Becoming,Fantasy,61.58,2024-02-06,Digital Wallet,Los Angeles
+The Great Gatsby,Fantasy,27.95,2024-02-06,Cash,Houston
+The Great Gatsby,Fiction,52.37,2024-02-06,Cash,Houston
+Atomic Habits,Classics,14.5,2024-02-06,Digital Wallet,Phoenix
+Rich Dad Poor Dad,Self-Help,34.14,2024-02-06,Credit Card,Houston
+Harry Potter,Fantasy,70.57,2024-02-06,Credit Card,Chicago
+Rich Dad Poor Dad,Self-Help,99.04,2024-02-06,Credit Card,Los Angeles
+The Great Gatsby,History,43.09,2024-02-07,Credit Card,Houston
+Becoming,Fantasy,59.59,2024-02-07,Credit Card,Phoenix
+The Alchemist,Fantasy,37.3,2024-02-07,Cash,New York
+Becoming,Fantasy,58.02,2024-02-07,Cash,Chicago
+To Kill a Mockingbird,Fiction,60.47,2024-02-07,Credit Card,Houston
+The Great Gatsby,Biography,24.69,2024-02-07,Cash,Los Angeles
+Harry Potter,Classics,84.93,2024-02-07,Credit Card,Chicago
+1984,Self-Help,75.46,2024-02-07,Cash,Houston
+Atomic Habits,Biography,97.7,2024-02-07,Digital Wallet,Houston
+Sapiens,History,96.78,2024-02-07,Digital Wallet,Phoenix
+The Alchemist,Fantasy,14.72,2024-02-07,Digital Wallet,Los Angeles
+Becoming,Biography,98.73,2024-02-07,Credit Card,Houston
+To Kill a Mockingbird,Fantasy,79.66,2024-02-07,Credit Card,New York
+1984,Self-Help,13.92,2024-02-07,Cash,Phoenix
+The Subtle Art of Not Giving a F*ck,Fiction,52.36,2024-02-07,Cash,Chicago
+Sapiens,Classics,88.71,2024-02-07,Cash,New York
+The Alchemist,Fiction,62.82,2024-02-07,Digital Wallet,New York
+1984,History,69.27,2024-02-07,Cash,Los Angeles
+Harry Potter,Classics,52.53,2024-02-07,Cash,New York
+Becoming,Biography,57.45,2024-02-07,Digital Wallet,Phoenix
+Sapiens,Biography,16.95,2024-02-07,Credit Card,Houston
+The Subtle Art of Not Giving a F*ck,Self-Help,25.43,2024-02-07,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,Fantasy,40.35,2024-02-07,Digital Wallet,Phoenix
+The Subtle Art of Not Giving a F*ck,Self-Help,47.8,2024-02-07,Credit Card,New York
+1984,Self-Help,37.28,2024-02-08,Cash,Chicago
+The Subtle Art of Not Giving a F*ck,Classics,16.79,2024-02-08,Digital Wallet,New York
+Rich Dad Poor Dad,Classics,10.46,2024-02-08,Cash,Phoenix
+To Kill a Mockingbird,Biography,79.35,2024-02-08,Credit Card,Los Angeles
+The Alchemist,Biography,82.21,2024-02-08,Cash,Chicago
+Rich Dad Poor Dad,Classics,88.38,2024-02-08,Cash,Chicago
+1984,Biography,20.27,2024-02-08,Credit Card,Chicago
+The Alchemist,History,51.89,2024-02-08,Digital Wallet,Chicago
+The Subtle Art of Not Giving a F*ck,History,48.2,2024-02-08,Digital Wallet,Phoenix
+Sapiens,Fiction,25.72,2024-02-08,Cash,New York
+Sapiens,Fantasy,46.23,2024-02-08,Cash,New York
+The Subtle Art of Not Giving a F*ck,History,23.11,2024-02-08,Cash,Phoenix
+1984,Classics,11.93,2024-02-08,Digital Wallet,Los Angeles
+Becoming,Fiction,6.81,2024-02-08,Cash,Chicago
+The Alchemist,Biography,76.33,2024-02-08,Cash,Chicago
+Harry Potter,Biography,80.09,2024-02-08,Cash,Chicago
+To Kill a Mockingbird,Fiction,21.9,2024-02-08,Credit Card,Los Angeles
+The Subtle Art of Not Giving a F*ck,History,11.58,2024-02-08,Cash,Houston
+Rich Dad Poor Dad,History,11.36,2024-02-08,Credit Card,New York
+Harry Potter,Fiction,88.24,2024-02-08,Digital Wallet,New York
+To Kill a Mockingbird,Fantasy,11.05,2024-02-08,Cash,Houston
+Harry Potter,Self-Help,49.5,2024-02-08,Credit Card,Chicago
+Atomic Habits,Classics,38.23,2024-02-08,Digital Wallet,Houston
+Atomic Habits,Self-Help,20.68,2024-02-08,Cash,Chicago
+The Alchemist,Fantasy,19.36,2024-02-09,Digital Wallet,New York
+Rich Dad Poor Dad,Classics,95.36,2024-02-09,Credit Card,Houston
+Harry Potter,Fantasy,53.73,2024-02-09,Cash,Phoenix
+The Alchemist,Classics,72.48,2024-02-09,Digital Wallet,Houston
+Harry Potter,History,84.97,2024-02-09,Digital Wallet,Los Angeles
+The Great Gatsby,Self-Help,38.72,2024-02-09,Cash,Houston
+Harry Potter,Biography,64.16,2024-02-09,Credit Card,Chicago
+Atomic Habits,Fiction,73.74,2024-02-09,Credit Card,Phoenix
+Harry Potter,Fiction,37.22,2024-02-09,Cash,Houston
+The Alchemist,Biography,75.09,2024-02-09,Credit Card,New York
+The Alchemist,Fantasy,30.82,2024-02-09,Cash,Houston
+Atomic Habits,History,77.37,2024-02-09,Digital Wallet,New York
+The Great Gatsby,History,33.08,2024-02-09,Credit Card,Chicago
+Atomic Habits,Fantasy,98.1,2024-02-09,Credit Card,Chicago
+The Alchemist,Biography,66.76,2024-02-09,Cash,New York
+1984,Biography,43.69,2024-02-09,Cash,Houston
+To Kill a Mockingbird,Biography,99.57,2024-02-09,Cash,Phoenix
+The Great Gatsby,History,18.55,2024-02-09,Credit Card,New York
+The Subtle Art of Not Giving a F*ck,History,11.57,2024-02-09,Cash,Phoenix
+The Great Gatsby,Classics,89.22,2024-02-09,Cash,Houston
+Harry Potter,History,20.19,2024-02-09,Credit Card,Houston
+The Great Gatsby,Biography,66.1,2024-02-09,Digital Wallet,Los Angeles
+To Kill a Mockingbird,Fantasy,85.07,2024-02-09,Credit Card,Phoenix
+The Subtle Art of Not Giving a F*ck,Fiction,13.49,2024-02-09,Credit Card,Los Angeles
+The Subtle Art of Not Giving a F*ck,Self-Help,18.36,2024-02-10,Credit Card,Phoenix
+Atomic Habits,Fiction,61.61,2024-02-10,Digital Wallet,Phoenix
+Rich Dad Poor Dad,Fiction,57.71,2024-02-10,Cash,New York
+Sapiens,Self-Help,85.48,2024-02-10,Cash,Phoenix
+Becoming,Fiction,67.47,2024-02-10,Cash,Chicago
+Sapiens,Biography,92.7,2024-02-10,Cash,Chicago
+Atomic Habits,Self-Help,18.86,2024-02-10,Cash,Chicago
+Harry Potter,Biography,90.91,2024-02-10,Cash,Houston
+The Alchemist,Fiction,6.94,2024-02-10,Cash,Phoenix
+The Subtle Art of Not Giving a F*ck,Fantasy,28.45,2024-02-10,Cash,Chicago
+Sapiens,Fantasy,89.01,2024-02-10,Cash,New York
+Becoming,Self-Help,15.18,2024-02-10,Cash,Houston
+The Subtle Art of Not Giving a F*ck,Fiction,67.93,2024-02-10,Cash,New York
+The Subtle Art of Not Giving a F*ck,Self-Help,19.19,2024-02-10,Credit Card,Houston
+Becoming,History,66.93,2024-02-10,Credit Card,Chicago
+Harry Potter,Biography,72.72,2024-02-10,Digital Wallet,New York
+1984,Biography,47.12,2024-02-10,Cash,Phoenix
+Atomic Habits,Fantasy,67.64,2024-02-10,Credit Card,Los Angeles
+To Kill a Mockingbird,Biography,69.54,2024-02-10,Cash,Houston
+The Alchemist,Biography,9.17,2024-02-10,Digital Wallet,Houston
+Rich Dad Poor Dad,History,54.49,2024-02-10,Cash,New York
+Atomic Habits,Biography,98.1,2024-02-10,Cash,Houston
+1984,History,48.73,2024-02-10,Cash,Chicago
+Sapiens,Biography,78.91,2024-02-10,Cash,New York
+1984,History,6.99,2024-02-11,Credit Card,Phoenix
+Harry Potter,Fantasy,14.01,2024-02-11,Digital Wallet,Phoenix
+Atomic Habits,Fantasy,7.7,2024-02-11,Credit Card,Los Angeles
+The Great Gatsby,Fiction,17.07,2024-02-11,Cash,Houston
+Becoming,Self-Help,8.35,2024-02-11,Credit Card,Chicago
+To Kill a Mockingbird,History,42.87,2024-02-11,Credit Card,New York
+Becoming,Classics,66.25,2024-02-11,Credit Card,Houston
+Sapiens,History,33.53,2024-02-11,Credit Card,Chicago
+The Great Gatsby,Classics,25.13,2024-02-11,Digital Wallet,Chicago
+Rich Dad Poor Dad,Classics,37.98,2024-02-11,Cash,Chicago
+Rich Dad Poor Dad,Self-Help,22.07,2024-02-11,Credit Card,New York
+Atomic Habits,Fiction,94.74,2024-02-11,Cash,Phoenix
+1984,Fantasy,17.43,2024-02-11,Digital Wallet,New York
+Harry Potter,Classics,78.44,2024-02-11,Cash,Chicago
+The Great Gatsby,Fantasy,31.5,2024-02-11,Cash,New York
+1984,Biography,95.59,2024-02-11,Credit Card,New York
